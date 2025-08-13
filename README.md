@@ -4,7 +4,7 @@ Machine Learning project to predict diabetes using diabetes.csv dataset
 # Dataset
 The project uses the Pima Indians Diabetes Dataset, which can be downloaded from [Dropbox]:https://www.dropbox.com/s/uh7o7uyeghqkhoy/diabetes.csv?dl=0
 
-# Features
+Features:
   Data preprocessing and cleaning
   Exploratory data analysis with visualizations
   Model training using machine learning algorithm (Support Vector Machine)
