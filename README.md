@@ -26,5 +26,5 @@ The project uses the Pima Indians Diabetes Dataset, which can be downloaded from
   Run all cells to train and test the model.
 
 ### Output
-  The notebook will output the model's performance metrics and indicate whether a sample input is predicted as diabetic or not.
+  The system will output the model's performance metrics and indicate whether a sample input is predicted as diabetic or not.
   
