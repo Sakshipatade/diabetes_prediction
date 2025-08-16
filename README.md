@@ -1,7 +1,7 @@
 # diabetes_prediction
 Machine Learning project to predict diabetes using diabetes.csv dataset
 
-### Dataset
+### Dataset Link
 The project uses the Pima Indians Diabetes Dataset, which can be downloaded from [Dropbox Link]:https://www.dropbox.com/s/uh7o7uyeghqkhoy/diabetes.csv?dl=0
 
 ### Features
